@@ -1,6 +1,6 @@
 # s21_containers
 
-![s21_containers](./misc/images/header_containers.jpg)
+![s21_containers](./misc/images/s21_containers.png)
 
 Этот проект является частью учебного курса [Школы 21](https://21-school.ru/).
 
